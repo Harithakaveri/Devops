@@ -1,0 +1,4 @@
+mkdir devops-training
+cd devops-training
+vagrant init bento/centos-8
+vagrant up
